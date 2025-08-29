@@ -1,5 +1,6 @@
 
 # Power BI Project: AdventureWorks Sales Dashboard
+<img width="1191" height="665" alt="image" src="https://github.com/user-attachments/assets/5b7b792c-3659-4a67-bef9-15f5b6ca7025" />
 
 ## 📊 Project Overview
 This Power BI project analyzes the **AdventureWorks** dataset to provide insights into sales, product performance, and customer trends.  
@@ -24,5 +25,5 @@ The dashboard was built using **Power BI Desktop** with data sourced from Excel.
 3. Refresh data if needed using `AdventureWorks_Database.xlsx`.
 
 ---
-<img width="1191" height="665" alt="image" src="https://github.com/user-attachments/assets/5b7b792c-3659-4a67-bef9-15f5b6ca7025" />
+
 
