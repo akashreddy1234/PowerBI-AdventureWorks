@@ -1,5 +1,8 @@
 
 # Power BI Project: AdventureWorks Sales Dashboard
+## 🌐 Live Dashboard  
+👉 [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWZlZTFmNTItYzU2MS00YmM4LTg5NTEtYWU0ZTBmNTc0NDc3IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
+
 <img width="1191" height="665" alt="image" src="https://github.com/user-attachments/assets/5b7b792c-3659-4a67-bef9-15f5b6ca7025" />
 
 ## 📊 Project Overview
