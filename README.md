@@ -17,7 +17,11 @@ The dashboard was built using **Power BI Desktop** with data sourced from Excel.
 - Year-over-year growth comparison
 
 ## 📷 Dashboard Preview
-*(Insert screenshots of your Power BI dashboard here)*
+<img width="638" height="427" alt="image" src="https://github.com/user-attachments/assets/b8abffcf-1cba-4122-aa7a-c046c1e1c40d" />
+<img width="631" height="417" alt="image" src="https://github.com/user-attachments/assets/296caba0-42f7-4c90-8b02-af158ddf1868" />
+<img width="649" height="430" alt="image" src="https://github.com/user-attachments/assets/b3cb739d-095f-4b56-9a77-48435b5b3527" />
+<img width="711" height="415" alt="image" src="https://github.com/user-attachments/assets/e0037396-a6d4-4a7e-b7d3-9cb04879743b" />
+
 
 ## 🚀 How to Use
 1. Clone/download this repository.
